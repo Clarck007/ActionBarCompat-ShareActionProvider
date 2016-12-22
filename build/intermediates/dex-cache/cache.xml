@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Clarck\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="afe90de62e2d82ba78663bc3c63fb8fea3b00fe7">
+        <dex dex="C:\Users\Clarck\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2142acbed68293c1fca524060e4a171bf7e7e1b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Clarck\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8a5380ddd58f4f8946ddade4c64dd77de4a836d5">
+        <dex dex="C:\Users\Clarck\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-24.1.1_3dfa8ff1d613ee010c3bfd11232f1be0220e5eae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Clarck\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\Clarck\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_a8bf591a5de54eca32bb2731668ab8fa7c7f1b8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Clarck\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="C:\Users\Clarck\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.1.1_d62d702567487298f39d87066823d48fd38c2ae5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Clarck\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60f046ee736494928f2f32bb418d4df71c76d696">
+        <dex dex="C:\Users\Clarck\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_74f54769df2c6cbf3cf63d347359cf5211dcc978\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Clarck\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\Clarck\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_b9a10369473067b7054532b265856771ab160d55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Clarck\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\Clarck\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_2c716bed50a6845f76f2ba004e26de0203e15144\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Clarck\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\Clarck\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_6dceda51d2a22ee17e54ed355f574eb56125c087\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Clarck\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\Clarck\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_e7f1ceb33e76cacd5973937b2844b9d961e88620\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Clarck\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\Clarck\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_7b0ace5a3cad33a9e2d057e613cd31068ae9dba2\classes.dex" />
+    </item>
+
+</items>
